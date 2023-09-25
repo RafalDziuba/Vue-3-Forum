@@ -1,6 +1,5 @@
-<script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
-</script>
 
-
-
+<template>
+  <p>AppVue Title</p>
+  <router-view />
+</template>
