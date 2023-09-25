@@ -32,7 +32,7 @@ npm install
 ### Compiles and hot-reloads for development
 
 ```bash
-npm run serve
+npm run dev
 ```
 
 ### Lints and fixes files
