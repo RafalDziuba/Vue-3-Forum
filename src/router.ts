@@ -6,3 +6,6 @@ const router = createRouter({
     //{path: '/', component: () => import('./pages/Home.vue')},
   ],
 });
+
+
+export default router;

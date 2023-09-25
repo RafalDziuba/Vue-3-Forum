@@ -25,18 +25,18 @@ Make sure you have the following installed:
 
 ### Installing Dependencies
 
-```
+```bash
 npm install
 ```
 
 ### Compiles and hot-reloads for development
 
-```
+```bash
 npm run serve
 ```
 
 ### Lints and fixes files
 
-```
+```bash
 npm run lint
 ```
